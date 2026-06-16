@@ -1,5 +1,7 @@
 # Bank-Loan-Analysis
 A data-driven analysis of bank loan using MySQL , Python and Power BI to assess lending risks, track financial KPIs, and optimize approval strategies
+## Project Overview
+The objective is to identify factors affecting loan approval decisions and understand customer borrowing behavior.
 
 Business Questions
 
